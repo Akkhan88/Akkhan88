@@ -41,7 +41,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akhaan88&show_icons=true&theme=radical" alt="Ammar's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akkhan88&show_icons=true&theme=radical" alt="Ammar's GitHub Stats" />
 </p>
 
 ---
@@ -56,19 +56,3 @@
 ---
 
 > 🧨 **"Success is a silent grind. I don’t compete — I dominate."**
-
-
-<!--
-**Akkhan88/Akkhan88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
